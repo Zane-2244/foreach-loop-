@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\FO.L\FO.L\bin\Debug\FO.L.exe.config
+C:\Users\Zane\source\repos\FO.L\FO.L\bin\Debug\FO.L.exe
+C:\Users\Zane\source\repos\FO.L\FO.L\bin\Debug\FO.L.pdb
+C:\Users\Zane\source\repos\FO.L\FO.L\obj\Debug\FO.L.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\FO.L\FO.L\obj\Debug\FO.L.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\FO.L\FO.L\obj\Debug\FO.L.exe
+C:\Users\Zane\source\repos\FO.L\FO.L\obj\Debug\FO.L.pdb
